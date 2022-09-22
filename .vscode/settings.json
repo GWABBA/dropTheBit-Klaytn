@@ -1,0 +1,4 @@
+{
+  "comma-dangle": ["error", "never"],
+  "prettier.trailingComma": "none"
+}

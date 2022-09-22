@@ -1,0 +1,18 @@
+{
+  "author": "Shawn.kim",
+  "dependencies": {
+    "@pulumi/aws": "^4.33.0",
+    "@pulumi/cloudflare": "^4.2.0",
+    "@pulumi/mongodbatlas": "^3.1.2",
+    "@pulumi/pulumi": "^3.21.0",
+    "@types/node": "^14.11.7",
+    "dotenv": "^10.0.0",
+    "ts-node": "9.1.1"
+  },
+  "main": "index.ts",
+  "name": "dropthebit_iac",
+  "scripts": {
+    "start": "./node_modules/ts-node/dist/bin.js ./src/index.ts"
+  },
+  "version": "1.0.0"
+}
