@@ -36,13 +36,13 @@ env:
   AWS_REGION: us-east-1                                
   #API
   ECR_REPOSITORY_API: klaytn-dropthebit-iac-api-ecr               
-  ECS_SERVICE_API: 
+  ECS_SERVICE_API: klaytn-dropthebit-iac-api-ecs-service-50c0520
   ECS_CLUSTER_API: klaytn-dropthebit-iac-api-cluster              
   ECS_TASK_DEFINITION_API: .aws/klaytn.api-task-definition.json                        
   CONTAINER_NAME_API: klaytn-dropthebit-iac-api-container
   #WEB  
   ECR_REPOSITORY_WEB: klaytn-dropthebit-iac-web-ecr               
-  ECS_SERVICE_WEB: 
+  ECS_SERVICE_WEB: klaytn-dropthebit-iac-web-ecs-service-bac69bd
   ECS_CLUSTER_WEB: klaytn-dropthebit-iac-web-cluster              
   ECS_TASK_DEFINITION_WEB: .aws/klaytn.web-task-definition.json    
   CONTAINER_NAME_WEB: klaytn-dropthebit-iac-web-container         

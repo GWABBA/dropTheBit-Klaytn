@@ -21,8 +21,8 @@ This repository covers how to implement the cloud infrastructure of DropTheBit s
 
 ## Github ci/cd
 - .aws/production.task-definition.json
-    - AWS account id update(009135987042)
-        > arn:aws:organizations::009135987042:account/o-6x08yykizg/*009135987042*
+    - AWS account id update(437189755809)
+        > arn:aws:organizations::437189755809:account/o-6x08yykizg/*437189755809*
 - .github/workflows/production.aws.yml
     - ECS_SERVICE name update
 - set github secrets
