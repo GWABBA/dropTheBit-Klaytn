@@ -9,7 +9,7 @@
           <li>
             You must have a token minted on the Klaytn baobab testnet to distribute to
             users through dropthebit, it can be Klaytn. If you cannot mint a
-            token to distribute as a test on the Klaytn baobab testne, please click one
+            token to distribute as a test on the Klaytn baobab testnet, please click one
             of the links from the google sheet below to claim some of our test
             token (FUFU).
             <br />
